@@ -1,0 +1,6 @@
+Artificial Intelligence (AI) is transforming industries by enabling new advancements in healthcare, finance, and transportation. AI helps doctors make faster diagnoses, allows banks to detect fraud, and even powers self-driving cars. However, these capabilities raise ethical concerns. Should AI be trusted to make critical decisions, and how can we prevent bias in these systems?
+
+Machine learning, a branch of AI, allows computers to learn from data without explicit programming. This technology powers tools like chatbots and image recognition software, making digital interactions more natural. Despite its benefits, machine learning faces challenges, such as the “black box” issue, where the decision-making process becomes hard to explain.
+
+As AI and automation advance, concerns about job displacement arise. While some roles may be automated, AI is also creating new career paths in data science and technology. To stay relevant, individuals will need to focus on skills that AI cannot easily replicate, such as creativity and critical thinking.
+
